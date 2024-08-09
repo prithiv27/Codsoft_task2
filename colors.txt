@@ -1,0 +1,4 @@
+Navy: 	#010c56
+Red:	#fe0303
+Grey:	#929292
+White: 	#fefdfd

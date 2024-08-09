@@ -1,0 +1,98 @@
+body {
+	font-family: 'Teko', sans-serif;
+	text-align: center;				
+}
+
+h1	{
+	font-size: 1000%;
+	color: #fefdfd;
+	text-shadow: 5px 2px #929292;
+}
+
+h2, h3 {
+	font-size: 5rem;
+}
+
+p {
+	font-size: 3rem;
+}
+
+.form-control {
+	font-size: 2rem;
+}
+
+.container {
+	width: 100%;	
+}
+
+#about, #careers, #team {
+	padding: 2.5rem 10rem;
+}
+
+#experience, #succes {
+	background: #929292;
+	padding: 2.5rem 10rem;
+}
+
+#team, #contact {
+	background: #123845;
+	color: #fefdfd;
+	padding: 2.5rem 10rem;
+}
+
+.icon {
+	font-size: 8rem;
+	color: #010c56;
+}
+
+img {
+	border-radius: 50%;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	font-size: 2.5rem;
+	color: #fefdfd;	
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: #929292;
+}
+
+.navbar-inverse .navbar-brand {
+	float: left;
+    background-image: url(img/Logo.png);
+    background-size: 100%;    
+    background-repeat: no-repeat;    
+    width: 250px;
+    height: 120px;
+    padding: 0;
+}
+
+#headline {		
+	padding: 20% 0 10% 0;	
+	background-image: url(img/Background.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;	
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 2.5rem;
+    line-height: 1.3333333;
+    border-radius: 10px
+    color: #010c56;
+    background-color: #929292;
+    border-color: #010c56;
+}
+
+footer	{
+	color: #FEFDFD;
+	text-align: center;		
+	padding: 2.5rem;
+	background: #222222;
+}
+
+#footer {
+	font-size: 2rem;
+}
